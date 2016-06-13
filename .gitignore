@@ -1,0 +1,8 @@
+.idea
+build/
+gradlew
+gradlew.bat
+gradle/
+.gradle/
+auth0.properties
+classes/
